@@ -80,21 +80,8 @@ p {
 
 .projekter {
     display: block;
-    margin: 200px auto;
+    margin: 20px auto;
     width: 500px;
-    height: 100px;
-}
-
-.projekter1 {
-    background-image: url('../images/space.jpeg');
-}
-
-.projekter2 {
-    background-image: url('../images/dans.png');
-}
-
-.projekter3 {
-    background-image: url('../images/bil.png');
 }
 
 
